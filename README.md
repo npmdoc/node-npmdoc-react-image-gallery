@@ -1,9 +1,14 @@
-# api documentation for  [react-image-gallery (v0.7.15)](https://github.com/xiaolin/react-image-gallery)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-image-gallery.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-image-gallery) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-image-gallery.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-image-gallery)
+# npmdoc-react-image-gallery
+
+#### api documentation for  [react-image-gallery (v0.7.15)](https://github.com/xiaolin/react-image-gallery)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-image-gallery.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-image-gallery) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-image-gallery.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-image-gallery)
+
 #### Responsive and flexible carousel component with thumbnail support
 
-[![NPM](https://nodei.co/npm/react-image-gallery.png?downloads=true)](https://www.npmjs.com/package/react-image-gallery)
+[![NPM](https://nodei.co/npm/react-image-gallery.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-image-gallery)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-react-image-gallery/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-react-image-gallery_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-react-image-gallery/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-react-image-gallery/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-react-image-gallery/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-react-image-gallery/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-react-image-gallery/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-react-image-gallery/build/screenCapture.npmPackageListing.svg)
 
@@ -81,13 +86,11 @@
     "main": "./build/image-gallery",
     "maintainers": [
         {
-            "name": "linxtion",
-            "email": "xiao@linxtion.com"
+            "name": "linxtion"
         }
     ],
     "name": "react-image-gallery",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/xiaolin/react-image-gallery.git"
@@ -99,47 +102,6 @@
     },
     "version": "0.7.15"
 }
-```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module react-image-gallery](#apidoc.module.react-image-gallery)
-1.  [function <span class="apidocSignatureSpan">react-image-gallery.</span>default (props)](#apidoc.element.react-image-gallery.default)
-
-
-
-# <a name="apidoc.module.react-image-gallery"></a>[module react-image-gallery](#apidoc.module.react-image-gallery)
-
-#### <a name="apidoc.element.react-image-gallery.default"></a>[function <span class="apidocSignatureSpan">react-image-gallery.</span>default (props)](#apidoc.element.react-image-gallery.default)
-- description and source-code
-```javascript
-function ImageGallery(props) {
-  _classCallCheck(this, ImageGallery);
-
-  var _this = _possibleConstructorReturn(this, Object.getPrototypeOf(ImageGallery).call(this, props));
-
-  _this.state = {
-    currentIndex: props.startIndex,
-    thumbsTranslate: 0,
-    offsetPercentage: 0,
-    galleryWidth: 0,
-    thumbnailsWrapperWidth: 0,
-    thumbnailsWrapperHeight: 0,
-    isFullscreen: false,
-    isPlaying: false
-  };
-
-  if (props.lazyLoad) {
-    _this._lazyLoaded = [];
-  }
-  return _this;
-}
-```
-- example usage
-```shell
-n/a
 ```
 
 
