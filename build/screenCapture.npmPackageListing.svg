@@ -1,20 +1,20 @@
 <svg height="270" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="270" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-07 10:28:39 +0000   115256 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-07 10:28:39 +0000     1052 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-07 10:28:39 +0000     8436 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-07 10:28:39 +0000     3657 bytes  build/image-gallery.css</tspan>
-<tspan x="10" y="90">  4.  2017-04-07 10:28:39 +0000    36734 bytes  build/image-gallery.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-07 10:28:39 +0000     2514 bytes  gulpfile.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-07 10:28:39 +0000     3563 bytes  package.json</tspan>
-<tspan x="10" y="138">  7.  2017-04-07 10:28:39 +0000    29292 bytes  src/ImageGallery.jsx</tspan>
-<tspan x="10" y="154">  8.  2017-04-07 10:28:39 +0000     6247 bytes  styles/css/image-gallery-no-icon.css</tspan>
-<tspan x="10" y="170">  9.  2017-04-07 10:28:39 +0000     9762 bytes  styles/css/image-gallery.css</tspan>
-<tspan x="10" y="186"> 10.  2017-04-07 10:28:39 +0000      913 bytes  styles/scss/_ionicons-font.scss</tspan>
-<tspan x="10" y="202"> 11.  2017-04-07 10:28:39 +0000      430 bytes  styles/scss/_ionicons-variables.scss</tspan>
-<tspan x="10" y="218"> 12.  2017-04-07 10:28:39 +0000     5482 bytes  styles/scss/image-gallery-no-icon.scss</tspan>
-<tspan x="10" y="234"> 13.  2017-04-07 10:28:39 +0000     6640 bytes  styles/scss/image-gallery.scss</tspan>
-<tspan x="10" y="250"> 14.  2017-04-07 10:28:39 +0000      534 bytes  styles/scss/ionicons.scss</tspan>
+<tspan x="10" y="26">  0.  2017-04-19 12:55:41 +0000   115256 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 12:55:41 +0000     1052 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 12:55:41 +0000     8436 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 12:55:41 +0000     3657 bytes  build/image-gallery.css</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 12:55:41 +0000    36734 bytes  build/image-gallery.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 12:55:41 +0000     2514 bytes  gulpfile.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 12:55:41 +0000     3563 bytes  package.json</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 12:55:41 +0000    29292 bytes  src/ImageGallery.jsx</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 12:55:41 +0000     6247 bytes  styles/css/image-gallery-no-icon.css</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 12:55:41 +0000     9762 bytes  styles/css/image-gallery.css</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 12:55:41 +0000      913 bytes  styles/scss/_ionicons-font.scss</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 12:55:41 +0000      430 bytes  styles/scss/_ionicons-variables.scss</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 12:55:41 +0000     5482 bytes  styles/scss/image-gallery-no-icon.scss</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 12:55:41 +0000     6640 bytes  styles/scss/image-gallery.scss</tspan>
+<tspan x="10" y="250"> 14.  2017-04-19 12:55:41 +0000      534 bytes  styles/scss/ionicons.scss</tspan>
 </text>
 </svg>
